@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimeWidget</string>
+    <string name="widget_text">Time Widget is Loading</string>
+    <string name="min_width">146dip</string>
+    <string name="min_height">72dip</string>
+    <integer name="update_interval">1000</integer>
+</resources>
